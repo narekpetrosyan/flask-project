@@ -1,0 +1,3 @@
+export FLASK_ENV=
+export FLASK_APP=
+export SQLALCHEMY_DB_URI=
